@@ -1,7 +1,6 @@
-<div   style =" width: 100%;
-               display: flex;
-               flex-direction: row;
-               justify-content: center;" >
+<div   style ="  margin: auto;
+  width: 50%;
+  padding: 10px;" >
   
   <h1 align="center">Hi 👋, I'm Mohamed Almahdy</h1>
 <h3 align="center">JR. Software developer</h3>
