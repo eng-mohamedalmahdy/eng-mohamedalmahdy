@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohamed Almahdy</h1>
+<div   style =" width: 100%;
+               display: flex;
+               flex-direction: row;
+               justify-content: center;" >
+  
+  <h1 align="center">Hi 👋, I'm Mohamed Almahdy</h1>
 <h3 align="center">JR. Software developer</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,8 +17,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<p><img style="display:block;"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-mohamedalmahdy&show_icons=true&locale=en&layout=compact&theme=radical" alt="eng-mohamedalmahdy" /></p>
+<p><img style="display:block; margin:20px;"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-mohamedalmahdy&show_icons=true&locale=en&layout=compact&theme=radical" alt="eng-mohamedalmahdy" /></p>
 
 
-<p>&nbsp;<img  style="display:block;" align="center" src="https://github-readme-stats.vercel.app/api?username=eng-mohamedalmahdy&show_icons=true&locale=en&theme=radical" alt="eng-mohamedalmahdy" /></p>
+<p>&nbsp;<img  style="display:block; margin:20px;" align="center" src="https://github-readme-stats.vercel.app/api?username=eng-mohamedalmahdy&show_icons=true&locale=en&theme=radical" alt="eng-mohamedalmahdy" /></p>
 
+
+  
+<div/>
