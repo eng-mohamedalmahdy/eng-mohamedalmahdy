@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div   
     style ="margin: auto;
             width: 50%;
@@ -6,9 +7,10 @@
   <h1 align="center">Hello this is Mohamed Almahdy from 
     <a href="https://www.youtube.com/@LightFeather42">light feather</a>
   </h1>
-  <h3 align="center">JR. Software developer</h3>
+  <h3 align="center">Software developer?</h3>
 
-  <h3 align="left">Connect with me:
+  <h3 align="left">Need some help? feel free to Contact me here
+    <p > ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️️</p>
     <p align="left">
       <a href="https://www.linkedin.com/in/mohamed-almahdy-592949187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-almahdy-592949187/" height="30" width="40" /></a>
       <a href="https://www.facebook.com/mohamed.almahdy.7311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.almahdy.7311/" height="30" width="40" /></a>
